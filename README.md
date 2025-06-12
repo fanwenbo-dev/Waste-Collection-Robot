@@ -44,7 +44,6 @@ The main objective of this project was to design and create a robot capable of:
 - **Fan Wen Bo**: Project lead, coding for motors, sensors, and integration.
 - **Ray Pang**: Design and fabrication of scoop and arms.
 - **Ryan Chu**: Design and testing of base car model.
-- **Joey Ng**: Programming of IR sensors and sensor integration.
 - **Irham**: Design and fabrication of the robot's body.
 
 ## Link to Repository
