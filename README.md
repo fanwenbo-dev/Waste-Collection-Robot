@@ -50,6 +50,3 @@ The main objective of this project was to design and create a robot capable of:
 ## Link to Repository
 [Waste Collection Robot GitHub Repository](https://github.com/fanwenbo-dev/Waste-Collection-Robot)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
